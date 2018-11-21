@@ -1,1 +1,3 @@
-# ee463_first_project
+EE 463 First Project Repo 
+
+This repo includes the simulations on diode rectifiers
